@@ -1,1 +1,1 @@
-# Social_Network_Analysis_in_Psychology
+# Social Network Analysis in Psychology
